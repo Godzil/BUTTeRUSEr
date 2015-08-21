@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP1402
+D 200 mA, PFM Step-Up switching regulator
+$ENDCMP
+#
+#End Doc Library
