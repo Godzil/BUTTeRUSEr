@@ -1,4 +1,4 @@
-update=21/08/2015 14:52:13
+update=Samedi 22 août 2015 00:40:00
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,6 +20,11 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
+[general]
+version=1
+[cvpcb]
+version=1
+NetIExt=net
 [eeschema]
 version=1
 LibDir=
@@ -53,8 +58,14 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
+LibName30=BUTTeRUSEr_Libs
+[schematic_editor]
 version=1
-[cvpcb]
-version=1
-NetIExt=net
+PageLayoutDescrFile=
+PlotDirectoryName=pdf/BUTTeRUSEr_PTM_Schematics.pdf
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
